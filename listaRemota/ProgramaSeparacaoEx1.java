@@ -13,7 +13,7 @@ public class ProgramaSeparacao {
 		b = new int [TAM];
 		
 		for (i=0; i<TAM; i++) {
-			System.out.println("Insira o "+ (i + 1) +"บ elemento:");
+			System.out.println("Insira o "+ (i + 1) +"ยบ elemento:");
 			a[i] = in.nextInt();
 				if (a[i]%2==0) {
 					b[j] = a[i];
