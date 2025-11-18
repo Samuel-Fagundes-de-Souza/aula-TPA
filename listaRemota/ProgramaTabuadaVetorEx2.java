@@ -12,7 +12,7 @@ public class ProgramaTabuadaVetor {
 		a = new int [TAM];
 		
 		for (i=0; i<TAM; i++) {
-			System.out.println("Insira o "+ (i + 1) +"º número:");
+			System.out.println("Insira o "+ (i + 1) +"Âº nÃºmero:");
 			a[i] = in.nextInt();
 		}
 		
