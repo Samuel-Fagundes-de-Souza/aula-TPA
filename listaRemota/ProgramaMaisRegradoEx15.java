@@ -14,9 +14,9 @@ public class ProgramaMaisRegrado {
 		c = new int [TAM];
 		
 		for (i=0; i<TAM; i++) {
-			System.out.println("Insira o "+ (i + 1) +"º número do vetor A:");
+			System.out.println("Insira o "+ (i + 1) +"Âº nÃºmero do vetor A:");
 			a[i] = in.nextInt();
-			System.out.println("Insira o "+ (i + 1) +"º número do vetor B:");
+			System.out.println("Insira o "+ (i + 1) +"Âº nÃºmero do vetor B:");
 			b[i] = in.nextInt();
 			
 			if (a[i]>b[i]) {
